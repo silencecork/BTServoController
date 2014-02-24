@@ -1,3 +1,5 @@
+This is an Android bluetooth sample control servo which connected to Arduino
+
 
                                  Apache License
                            Version 2.0, January 2004
